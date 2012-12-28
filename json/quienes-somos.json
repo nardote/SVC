@@ -1,0 +1,207 @@
+{
+
+	"titulo": "Somos una agencia de marketing digital que integra tecnología, creatividad y marketing con una visión orientada a resultados para nuestros clientes, a esto le llamamos: Digital Business 360°.",
+        "bajada": "Planteamos estrategias y soluciones para cada necesidad particular, creando y desarrollando una amplia gama de herramientas digitales para alcanzar los resultados esperados. Somos un equipo integrado por especialistas en tecnología, innovación, desarrollo, comunicación, creatividad y marketing preparados que entiende cómo los consumidores digitales se comportan, cómo toman su decisión de compra, qué esperan de tu marca y estamos aquí para ayudarte.",
+        "directores": [
+		{
+			"nombre": "Roberto Cibrian",
+			"cargo": "CEO",
+			"foto1": "rcibrian.jpg",
+			"foto2": "rcibrian2.jpg"
+		},
+		{
+			"nombre": "Hector Sierra",
+			"cargo": "COO",
+			"foto1": "hsierra.jpg",
+			"foto2": "hsierra2.jpg"
+		},
+		{
+			"nombre": "Rafael Bustamante",
+			"cargo": "Socio Director",
+			"foto1": "rbustamante.jpg",
+			"foto2": "rbustamante2.jpg"
+		},
+		{
+			"nombre": "Enrique D'Alessandro",
+			"cargo": "Socio Director",
+			"foto1": "edalessandro.jpg",
+			"foto2": "edalessandro2.jpg"
+		},
+		{
+			"nombre": "Hernan Coronel",
+			"cargo": "Director de cuentas/eMKT",
+			"foto1": "hcoronel.jpg",
+			"foto2": "hcoronel2.jpg"
+		},
+		{
+			"nombre": "Teresa Reynolds",
+			"cargo": "Directora Comercial",
+			"foto1": "treynolds.jpg",
+			"foto2": "treynolds2.jpg"
+		}
+	],		
+	"empleados": [
+		{
+			"nombre": "Santiago Escalante",
+			"cargo": "Front-end Coder",
+			"foto1": "sescalante.jpg",
+			"foto2": "sescalante2.jpg"
+		},
+                {
+			"nombre": "Santiago Pereyra",
+			"cargo": "Responsable de e-Marketing",
+			"foto1": "santiago03.jpg",
+			"foto2": "santiago04.jpg"
+		},
+		{
+			"nombre": "Marcelo Raimondi",
+			"cargo": "Desarrollo Nuevos Negocios",
+			"foto1": "mraimondi.jpg",
+			"foto2": "mraimondi2.jpg"
+		},
+		{
+			"nombre": "Valeria Dudiuk",
+			"cargo": "Auxiliar de Administraci&oacute;n",
+			"foto1": "vdudiuk.jpg",
+			"foto2": "vdudiuk2.jpg"
+		},
+		{
+			"nombre": "Ver&oacute;nica Lavia",
+			"cargo": "Responsable de Cuentas",
+			"foto1": "vlavia.jpg",
+			"foto2": "vlavia2.jpg"
+		},
+		{
+			"nombre": "Tomas Viglini",
+			"cargo": "Programador",
+			"foto1": "tviglini.jpg",
+			"foto2": "tviglini2.jpg"
+		},
+		{
+			"nombre": "Gabriel Heiler",
+			"cargo": "Programador Mobile",
+			"foto1": "gheiler.jpg",
+			"foto2": "gheiler2.jpg"
+		},
+		{
+			"nombre": "Norma Salgado",
+			"cargo": "Asistente CEO",
+			"foto1": "nsalgado.jpg",
+			"foto2": "nsalgado2.jpg"
+		},
+		{
+			"nombre": "Mercedes Pey&oacute;n",
+			"cargo": "Desarrollo de Contenidos",
+			"foto1": "mpeyon.jpg",
+			"foto2": "mpeyon2.jpg"
+		},
+		{
+			"nombre": "Malena Menendez",
+			"cargo": "Dise&ntilde;adora",
+			"foto1": "mmenendez.jpg",
+			"foto2": "mmenendez2.jpg"
+		},
+		{
+			"nombre": "Magal&iacute; Cibrian",
+			"cargo": "Community Manager",
+			"foto1": "mcibrian.jpg",
+			"foto2": "mcibrian2.jpg"
+		},
+		{
+			"nombre": "Jorge Breuning",
+			"cargo": "Programador",
+			"foto1": "jbreuning.jpg",
+			"foto2": "jbreuning2.jpg"
+		},
+		{
+			"nombre": "Lautaro Dubois",
+			"cargo": "Ejecutivo de Cuentas",
+			"foto1": "ldubois.jpg",
+			"foto2": "ldubois2.jpg"
+		},
+		{
+			"nombre": "Joaqu&iacute;n Fontan",
+			"cargo": "Community Manager",
+			"foto1": "jfontan.jpg",
+			"foto2": "jfontan2.jpg"
+		},
+		{
+			"nombre": "Ignacio Ruiz",
+			"cargo": "Responsable de Desarrollo",
+			"foto1": "iruiz.jpg",
+			"foto2": "iruiz2.jpg"
+		},
+		{
+			"nombre": "Florencia Urue&ntilde;a",
+			"cargo": "Desarrollo de Contenidos",
+			"foto1": "furuena.jpg",
+			"foto2": "furuena2.jpg"
+		},
+		{
+			"nombre": "Florencia Fiorentino",
+			"cargo": "Dise&ntilde;adora",
+			"foto1": "ffiorentino.jpg",
+			"foto2": "ffiorentino2.jpg"
+		},
+		{
+			"nombre": "Ernesto Rodriguez",
+			"cargo": "Programador",
+			"foto1": "erodriguez.jpg",
+			"foto2": "erodriguez2.jpg"
+		},
+		{
+			"nombre": "Emiliano Penedo",
+			"cargo": "Programador",
+			"foto1": "epenedo.jpg",
+			"foto2": "epenedo2.jpg"
+		},
+		{
+			"nombre": "Diego Mendonca",
+			"cargo": "Front-end Coder",
+			"foto1": "dmendonca.jpg",
+			"foto2": "dmendonca2.jpg"
+		},
+		{
+			"nombre": "Daniela Moreno",
+			"cargo": "Ejecutiva de Cuentas",
+			"foto1": "dmoreno.jpg",
+			"foto2": "dmoreno2.jpg"
+		},
+		{
+			"nombre": "Damian Said",
+			"cargo": "Investigaci&oacute;n",
+			"foto1": "dsaid.jpg",
+			"foto2": "dsaid2.jpg"
+		},
+		{
+			"nombre": "Claudio Parrondo",
+			"cargo": "Investigaci&oacute;n y Desarrollo",
+			"foto1": "cparrondo.jpg",
+			"foto2": "cparrondo2.jpg"
+		},
+		{
+			"nombre": "Adriana Chionetti",
+			"cargo": "Dise&ntilde;adora",
+			"foto1": "achionetti.jpg",
+			"foto2": "achionetti2.jpg"
+		},
+		{
+			"nombre": "Alejandro Tobares",
+			"cargo": "Programador",
+			"foto1": "atobares.jpg",
+			"foto2": "atobares2.jpg"
+		},
+		{
+			"nombre": "Adrian Cavicchia",
+			"cargo": "Responsable de Mobile",
+			"foto1": "acavicchia.jpg",
+			"foto2": "acavicchia2.jpg"
+		},
+		{
+			"nombre": "Claudia Luna",
+			"cargo": "Responsable de Administraci&oacute;n",
+			"foto1": "cluna.jpg",
+			"foto2": "cluna2.jpg"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+<div class="row-fluid">
+	<div class="span2"></div>
+	<div class="span8 labs">
+		<h3>Laboratorio de ideas</h3>
+		{{ for(var i = 0; i < labs.length; i++) { }}
+		<div class="article">
+			<div class="span6 image">
+				<img alt="" src="img/labs/{{=labs[i].imagen}}" />
+			</div>
+			<div class="span7 content">
+				<h2>{{=labs[i].titulo}}</h2>
+				<p class="subtitle">{{=labs[i].subtitulo}}</p>
+				<p>{{=labs[i].descripcion}}</p>
+				<a href="{{=labs[i].demo}}" class="view">Ver demo</a>
+			</div>
+		</div>
+		{{ } }}
+	</div>
+	<div class="span2"></div>
+</div>

@@ -1,0 +1,41 @@
+<div class="row-fluid">
+	<div class="span2"></div>
+	<div class="span8 contacto-gracias">
+		<h2 class="escrito">Gracias por contactarse con nosotros</h2>
+		<h4>Un representante de Ndway se pondr&aacute; en contacto con usted</h4>
+		<div class="ubicacion">
+			<div class="mapa">
+				<img src="img/map.png" alt="" />
+			</div>
+			<div class="description">
+				<p class="title location">Donde estamos</p>
+				<p>
+					Iber&aacute; 2180<br />
+					CP 1426<br />
+					Ciudad Auto&oacute;noma de Buenos Aires<br />
+					Buenos Aires, Argentina
+				</p>
+				<p class="title">Tambi&eacute;n puede encontrarnos en:</p>
+				<div>
+					<div class="sociales">
+						<a href="http://www.facebook.com/ndway" class="facebook" target="_blank"></a>
+						<a href="http://www.twitter.com/ndway" class="twitter" target="_blank"></a>
+						<a href="http://www.youtube.com/newdigitalway" class="youtube" target="_blank"></a>
+					</div>
+				</div>
+				<p class="title mail">O recibir nuestras novedades en su mail</p>
+				<form action="" method="post" id="newsletter2">
+					<fieldset>
+						<div class="field">
+							<input type="text" name="email" value="Ingrese aquí su email" onblur="if(this.value==''){this.value='Ingrese aquí su email';}" onfocus="if(this.value=='Ingrese aquí su email'){this.value='';}" id="email2" />
+							<input type="submit" value="ok" />
+						</div>
+						<p class="emailAlert"><span class="emailAlert">Mail inv&aacute;lido</span></p>
+					</fieldset>
+				</form>
+				<p class="thanks2">Muchas gracias por suscribirse!</p>
+			</div>
+		</div>
+	</div>
+	<div class="span2"></div>
+</div>

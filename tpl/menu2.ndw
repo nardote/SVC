@@ -1,0 +1,69 @@
+<div class="span12">
+  <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span>Men&uacute;</span>
+          </button>
+          <a class="logo" href="#!home">
+            <img alt="" src="img/new-digital-way.png" />
+          </a>
+          <a class="logo-small" href="#!home"></a>
+          <div class="nav-480">
+            <ul>
+              <li><a href="#!quienes-somos">Quienes somos</a></li>
+              <li><a href="#!productos">Productos</a></li>
+              <li><a href="#!servicios">Servicios</a></li>
+              <li><a href="#!clientes">Clientes</a></li>
+              <li><a href="#!blog">Blog</a></li>
+              <li><a href="#!labs">Labs</a></li>
+              <li><a href="#!contacto">Contacto</a></li>
+              <li><a href="#!">Reciba nuestras novedades en su mail</a></li>
+              <li><a href="#!" class="lang">English version</a></li>
+            </ul>
+          </div>
+          <div class="nav-collapse collapse">
+            <ul class="nav left">
+              <li>
+                <a href="#!quienes-somos">Quienes Somos</a>
+              </li>
+      			  <li>
+                <a href="#!productos" class="drop">Productos</a>
+                <div class="dropdown">
+                  <ul class="list">
+                    <li><a href="#!productos$producto=Plataformas e-Comerce">Plataformas e-commerce</a></li>
+                    <li><a href="#!productos$producto=CMS">Cms</a></li>
+                    <li><a href="#!productos$producto=E-Cat&aacute;logos">E-Cat&aacute;logos</a></li>
+                    <li><a href="#!productos$producto=Intranet">Intranet</a></li>
+                    <li><a href="#!productos$producto=Websites">Websites</a></li>
+                    <li><a href="#!productos$producto=Microset">Microset</a></li>
+                    <li><a href="#!productos$producto=Mobile Marketing">Mobile Marketing</a></li>
+                    <li><a href="#!productos$producto=Mobile Commerce">Mobile Commerce</a></li>
+                  </ul>
+                </div>
+              </li>		
+      			  <li>
+                <a href="#!servicios" class="drop">Servicios</a>
+                <div class="dropdown">
+                  <ul class="list">                    
+                    <li><a href="#!servicios$servicio=Consultoría">Consultoría</a></li>
+                    <li><a href="#!servicios$servicio=Reporte">Reporte</a></li>
+                    <li><a href="#!servicios$servicio=Help desk">Help desk</a></li>            
+                    <li><a href="#!servicios$servicio=Hosting">Hosting</a></li>            
+                    <li><a href="#!servicios$servicio=Banners">Banners</a></li>           
+                    <li><a href="#!servicios$servicio=Pauta online">Pauta online</a></li>           
+                    <li><a href="#!servicios$servicio=SEO/SEM y Social Ads">SEO/SEM y Social Ads</a></li>  
+                  </ul>
+                </div>
+              </li>
+      			</ul>
+            <a class="contacto" href="#!contacto">Contacto</a>
+      			<ul class="nav right">
+      			  <li><a href="#!clientes">Clientes</a></li>
+      			  <li><a href="#!blog">Blog</a></li>
+              <li><a href="#!labs">Labs</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div></div>

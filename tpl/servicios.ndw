@@ -1,0 +1,63 @@
+<div class="row-fluid">
+	<div class="span2"></div>
+	<div class="span8">	
+		<div class="menu-container">
+			<ul class="menu-productos">
+			{{ for(var i = 0; i <  servicios.length; i++) { }}	
+				<li>			
+					<a href="" class="boton-amarillo" ref="bloque-{{=i}}">{{=servicios[i].titulo}}</a>
+				</li>
+			{{ } }}	
+			</ul>
+		</div>
+		<div class="product-list">
+			<a class="desplegar-productos">Seleccionar producto</a>
+			<div class="lista-productos">
+				<ul>
+					{{ for(var i = 0; i <  servicios.length; i++) { }}
+						<li><a href="#!servicios$servicio={{=servicios[i].titulo}}" ref="bloque-{{=i}}">{{=servicios[i].titulo}}</a></li>
+					{{ } }}	
+				</ul>
+			</div>
+		</div>
+		{{ for(var i = 0; i <  servicios.length; i++) { }}		
+		<div class="row-fluid header bloque-{{=i}} producto" style="display:none">
+			<div class="span6">
+				<img src="{{=servicios[i].imagen}}" />
+			</div>
+			<div class="span6">
+				<h2>{{=servicios[i].titulo}}</h2>
+				{{=servicios[i].descripcion}}
+			</div>
+		</div>		
+		{{ } }}	
+
+		<h3 class="espacio-top">Casos de éxito</h3>	
+
+		<div class="menu-container">
+			<ul class="menu-casos-exito casos-exito">
+			{{ for(var i = 0; i <  casoExito.length; i++) { }}
+				<li>
+					<a href="" ref="bloquece-{{=i}}">
+						<img class="logo1" src="img/clientes/casos/{{=casoExito[i].logo1}}" />
+						<img class="logo2" src="img/clientes/casos/{{=casoExito[i].logo2}}" />
+					</a>
+				</li>
+			{{ } }}
+			</ul>
+		</div>
+		<div class="clear"></div>
+		{{ for(var i = 0; i <  casoExito.length; i++) { }}		
+		<div class="row-fluid header bloquece-{{=i}} producto sec" style="display:none">
+			<div class="span6">
+				<img src="{{=casoExito[i].imagen}}" />
+			</div>
+			<div class="span6">
+				<h2>{{=casoExito[i].titulo}}</h2>
+				{{=casoExito[i].descripcion}}
+			</div>
+		</div>		
+		{{ } }}		
+	</div>
+	<div class="span2"></div>	
+</div>

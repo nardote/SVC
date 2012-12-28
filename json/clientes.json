@@ -1,0 +1,222 @@
+{
+
+	"titulo": "Somos quienes somos gracias a nuestros clientes que d&iacute;a a d&iacute;a nos eligen y nos dan la confianza que nos permite seguir creciendo y mejorando",
+	"clientes": [
+		{
+			"nombre": "Musimundo",
+			"logo": "musimundo.png",
+			"logo2": "musimundo-hover.png",
+			"link": "http://www.musimundo.com"
+		},
+		{
+			"nombre": "SAP",
+			"logo": "sap.png",
+			"logo2": "sap-hover.png",
+			"link": "http://www.referenciassap.com"
+		},
+		{
+			"nombre": "47 Street",
+			"logo": "47street.png",
+			"logo2": "47street-hover.png",
+			"link": "http://www.47street.com.ar"
+		},
+		{
+			"nombre": "freddo",
+			"logo": "freddo.png",
+			"logo2": "freddo-hover.png",
+			"link": "http://www.freddo.com.ar"
+		},
+		{
+			"nombre": "CFI",
+			"logo": "cfi.png",
+			"logo2": "cfi-hover.png",
+			"link": "http://www.cfired.org.ar"
+		},
+		{
+			"nombre": "Tafirol",
+			"logo": "tafirol.png",
+			"logo2": "tafirol-hover.png",
+			"link": "http://www.tafirol.com"
+		},
+		{
+			"nombre": "Tafirol Mujer",
+			"logo": "tafirol-mujer.png",
+			"logo2": "tafirol-mujer-hover.png",
+			"link": "http://www.tafirolmujer.com.ar"
+		},
+		{
+			"nombre": "Blaqu&egrave;",
+			"logo": "blaque.png",
+			"logo2": "blaque-hover.png",
+			"link": "http://www.blaque.com.ar"
+		},
+		{
+			"nombre": "Bodega La Rural",
+			"logo": "bodega-la-rural.png",
+			"logo2": "bodega-la-rural-hover.png",
+			"link": "http://www.bodegalarural.com.ar"
+		},
+		{
+			"nombre": "Colorshop",
+			"logo": "colorshop.png",
+			"logo2": "colorshop-hover.png",
+			"link": "http://www.colorshop.com.ar"
+		},
+		{
+			"nombre": "Paruolo",
+			"logo": "paruolo.png",
+			"logo2": "paruolo-hover.png",
+			"link": "http://www.paruolostore.com.ar"
+		},
+		{
+			"nombre": "Jackie Smith",
+			"logo": "jackie-smith.png",
+			"logo2": "jackie-smith-hover.png",
+			"link": "http://www.jackiesmith.com"
+		},
+		{
+			"nombre": "Burco America",
+			"logo": "burco-america.png",
+			"logo2": "burco-america-hover.png",
+			"link": "http://www.burcoamerica.com"
+		},
+		{
+			"nombre": "Ita&uacute;",
+			"logo": "itau.png",
+			"logo2": "itau-hover.png",
+			"link": "http://www.premioitau.com.ar"
+		},
+		{
+			"nombre": "Cicmas",
+			"logo": "cicmas.png",
+			"logo2": "cicmas-hover.png",
+			"link": "http://www.cicmas.com"
+		},
+		{
+			"nombre": "Mercosur",
+			"logo": "mercosur.png",
+			"logo2": "mercosur-hover.png",
+			"link": "http://www.mercosur.com"
+		},
+		{
+			"nombre": "713",
+			"logo": "713.png",
+			"logo2": "713-hover.png",
+			"link": "http://www.arte713.com"
+		},
+		{
+			"nombre": "Almacen de belleza",
+			"logo": "almacen-de-belleza.png",
+			"logo2": "almacen-de-belleza-hover.png",
+			"link": "http://www.almacendebelleza.com"
+		},
+		{
+			"nombre": "Tekmedical",
+			"logo": "tekmedical.png",
+			"logo2": "tekmedical-hover.png",
+			"link": "#"
+		},
+		{
+			"nombre": "Los Robles",
+			"logo": "los-robles.png",
+			"logo2": "los-robles-hover.png",
+			"link": "#"
+		},
+		{
+			"nombre": "Entre Cielos",
+			"logo": "entre-cielos.png",
+			"logo2": "entre-cielos-hover.png",
+			"link": "http://www.entrecielos.com/"
+		},
+		{
+			"nombre": "Oferdar",
+			"logo": "oferdar.png",
+			"logo2": "oferdar-hover.png",
+			"link": "#"
+		},
+		{
+			"nombre": "IAE",
+			"logo": "iae.png",
+			"logo2": "iae-hover.png",
+			"link": "http://www.iae.edu.ar/"
+		},
+		{
+			"nombre": "Auto Special",
+			"logo": "auto-special.png",
+			"logo2": "auto-special-hover.png",
+			"link": "http://www.autospecial.com.ar/"
+		},
+		{
+			"nombre": "Auto Generali",
+			"logo": "auto-generali.png",
+			"logo2": "auto-generali-hover.png",
+			"link": "http://www.autogenerali.com.ar/"
+		},
+		{
+			"nombre": "Diaz",
+			"logo": "diaz.png",
+                        "logo2": "diaz-hover.png",
+			"link": "http://www.diazsa.com/"
+		},
+		{
+			"nombre": "Forest car",
+			"logo": "forest-car.png",
+			"logo2": "forest-car-hover.png",
+			"link": "http://forestcar.com.ar/"
+		},
+		{
+			"nombre": "Autotag",
+			"logo": "autotag.png",
+			"logo2": "autotag-hover.png",
+			"link": "http://autotag.com.ar/"
+		},
+		{
+			"nombre": "Los Calvos",
+			"logo": "los-calvos.png",
+			"logo2": "los-calvos-hover.png",
+			"link": "http://www.loscalvos.com/"
+		},
+		{
+			"nombre": "Fonres",
+			"logo": "fonres.png",
+			"logo2": "fonres-hover.png",
+			"link": "http://www.fonres.com/"
+		},
+		{
+			"nombre": "Gran Cooperativa",
+			"logo": "gran-cooperativa.png",
+			"logo2": "gran-cooperativa-hover.png",
+			"link": "http://www.grancoop.com.ar/"
+		},
+		{
+			"nombre": "Mejor postura",
+			"logo": "mejor-postura.png",
+			"logo2": "mejor-postura-hover.png",
+			"link": "http://www.mejorpostura.com.ar/"
+		},
+		{
+			"nombre": "NTH",
+			"logo": "nth.png",
+			"logo2": "nth-hover.png",
+			"link": "http://www.nth.com.ar/"
+		},
+		{
+			"nombre": "Moviclips",
+			"logo": "moviclips.png",
+			"logo2": "moviclips-hover.png",
+			"link": "http://www.moviclips.com/"
+		},
+		{
+			"nombre": "Antina",
+			"logo": "antina.png",
+			"logo2": "antina-hover.png",
+			"link": "http://www.antina.com.ar/"
+		},
+		{
+			"nombre": "amba",
+			"logo": "amba.png",
+			"logo2": "amba-hover.png",
+			"link": "http://www.ambanet.org/"
+		}
+	]
+}

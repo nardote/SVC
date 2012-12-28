@@ -1,0 +1,39 @@
+<div class="row-fluid header">
+	<div class="span2"></div>
+	<div class="span8">
+		<h2 class="escrito">{{=titulo}}</h2>
+                <p>{{=bajada}}</p>
+	</div>
+	<div class="span2"></div>	
+</div>
+<div class="row-fluid header">
+	<div class="span2"></div>
+	<div class="span8 cudriculado">
+		<div class="retainer">		
+			<h3>Management</h3>
+			{{ for(var i = 0; i <  directores.length; i++) { }}
+				<div class="employee">
+					<img class="foto1" src="img/personas/{{=directores[i].foto1}}" />
+					<img class="foto2" src="img/personas/{{=directores[i].foto2}}" />
+					<span class="amarillo">
+						<strong>{{=directores[i].nombre}}</strong>
+						{{=directores[i].cargo}}
+					</span>
+				</div>
+			{{ } }}
+
+			<h3 class="clear espacio-top">Nuestro equipo de trabajo</h3>
+			{{ for(var i = 0; i <  empleados.length; i++) { }}				
+				<div class="employee">
+					<img class="foto1" src="img/personas/{{=empleados[i].foto1}}" />
+					<img class="foto2" src="img/personas/{{=empleados[i].foto2}}" />
+					<span class="amarillo">
+						<strong>{{=empleados[i].nombre}}</strong>
+						{{=empleados[i].cargo}}
+					</span>
+				</div>
+			{{ } }}			
+		</div>
+	</div>
+	<div class="span2"></div>	
+</div>

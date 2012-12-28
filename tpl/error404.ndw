@@ -1,0 +1,20 @@
+<div class="row-fluid">
+	<div class="span2"></div>
+	<div class="span8">
+		<div class="error-page">
+			<div class="image">
+				<img alt="" src="img/error404.png" />
+			</div>
+			<div class="description">
+				<h2 class="escrito">Ha ocurrido un error o la p&aacute;gina que est&aacute; buscando no existe</h2>
+				<ul>
+					<li>Si ha escrito la direcci&oacute;n de la p&aacute;gina en la barra de direcciones, compruebe que est&eacute; escrita correctamente.</li>
+					<li>Abra la p&aacute;gina principal www.ndway.com y busque v&iacute;nculos a la informaci&oacute;n que desea</li>
+					<li>Regrese atr&aacute;s para buscar otro v&iacute;nculo</li>
+				</ul>
+				<a class="view" href="#">›› Volver al inicio</a>
+			</div>
+		</div>
+	</div>
+	<div class="span2"></div>
+</div>

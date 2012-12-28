@@ -1,0 +1,104 @@
+{
+
+	"titulo": "",
+	"servicios": [
+		{
+			"imagen": "img/servicios/consultoria.png",
+			"titulo": "Diseño de banners",
+			"descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+		},
+		{
+			"imagen": "img/servicios/consultoria.png",
+			"titulo": "Hosting",
+			"descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+		},
+		{
+			"imagen": "img/servicios/consultoria.png",
+			"titulo": "Consultoría (SEO)",
+			"descripcion": "Es el proceso por el cual se mejora la visibilidad y el posicionamiento de un sitio web en los diferentes buscadores, como Google, Yahoo! o Bing de manera orgánica, es decir sin pagarle dinero al buscador para tener acceso a una posición destacada en los resultados. La aplicación de técnicas SEO suele ser más intensa en sitios web con mucha competencia y lo que se pretende con su aplicación es que las páginas de un sitio web logren posicionarse con el tiempo por encima de los competidores en determinadas palabras claves. <h4>BENEFICIOS</h4> <h5>PRESENCIA EN BUSCADORES</h5> Para cualquier empresa es vital que su sitio web sea conocido y visitado por el público. Y más allá de promocionarlo a través de una red social, algo sumamente útil, también resulta relevante posicionar la página dentro de las mejores ubicaciones que ofrecen los principales buscadores. De esta manera, cualquier persona que ingrese las palabras clave en un buscador determinado, podrá encontrarlo sin problemas gracias a una buena estrategia. El alto rango dentro de los motores de búsqueda permitirá que el tráfico del sitio aumente. <h5>MENOR COSTO Y MAYOR PERMANENCIA</h5> A través de una buena estrategia SEO es posible, además, crear el enfoque indicado que permita a la página hacerse más visible por más tiempo y a con costos mucho menores que los de los anuncios pagos. <h5>INCREMENTO EN LAS VENTAS</h5> Si el sitio está destinado a la venta de productos o servicios, el SEO puede contribuir fuertemente al aumento de las ventas. <h5>REPORTING</h5> Recibirás completas estadísticas de rendimiento, lo que permite que el retorno de tu inversión sea 100% cuantificable."
+		},
+		{
+			"imagen": "img/servicios/consultoria.png",
+			"titulo": "Mantenimiento Evolutivo",
+			"descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+		},
+		{
+			"imagen": "img/servicios/consultoria.png",
+			"titulo": "Contenido",
+			"descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+		},
+		{
+			"imagen": "img/servicios/consultoria.png",
+			"titulo": "Pauta online",
+			"descripcion": "Es una forma de marketing en Internet que busca promover los sitios web mediante el aumento de su visibilidad en los motores de búsqueda de páginas de resultados. Hoy en día, la mayoría de nosotros, lo primero que hace cuando quiere acceder a un determinado producto, un contenido especifico o a una marca, es ir a un buscador, mayoritariamente a Google (el 70% de las búsquedas se hacen ahí), y poner en esa caja mágica la palabra que lleve al ususario al resultado deseado. Fue a partir de ahí, que Google en el año 2006, desarrolló la herramienta Google adwords. que posibilita que un usuario adquiera una palabra clave, y lograr de esa manera que cuando un navegante pone esa palabra en la caja mágica aparezca el link que lo lleva al producto o la marca que la empresa quiera promocionar. Esto se define como \"enlaces patrocinados\", o SEM (Search Engine Marketing). </h4>Beneficios</h4> <h5>SEGMENTACIÓN</h5> Los anuncios se muestran específicamente a usuarios que buscan tus productos o servicios. (Por país, región, temas de interés, horario, etc...) </h5>RETORNO DE INVERSIÓN (ROI)</h5> Campañas CPC (Costo por click), evitando pagar por anuncios que se muestren a usuarios poco susceptibles de convertirse en clientes. Solo pagas por la persona que busco específicamente algo directamente relacionado con tu producto y al ver su anuncio decidió que era interesante para él al momento de seguir el vínculo o clickear. <h5>OPORTUNIDAD</h5> Los anuncios se muestran a los clientes potenciales en el momento en el que buscan información. <h5>CRECIMIENTO</h5> Ampliar significativamente la presencia online en los resultados de búsqueda de los buscadores más utilizados y su amplia red de contenidos. <h5>POSICIONAMIENTO GRATUITO</h5> A través de impresiones sin costo (impresiones sin click). <h5>REPORTING</h5> Recibirás completas estadísticas de rendimiento y evolución de la campaña, lo que permite que el retorno de tu inversión sea 100% cuantificable. <h5>Servicios Adicionales de Pauta online</h5> Diseño de banners, Redacción, Reporting"
+		},
+		{
+			"imagen": "img/servicios/consultoria.png",
+			"titulo": "Social Media",
+			"descripcion": "El objetivo del Community Manager es mantener activa la comunidad tanto en Facebook como en Twitter mediante publicaciones de datos de interés, interacción con los usuarios, juegos interactivos, etc… Este trabajo mantiene informada y pendiente a la comunidad para lograr el mayor impacto a la hora de publicar promociones y novedades que invitan al consumo. El trabajo del Community Manager además genera un crecimiento moderado de la cantidad de fans o seguidores mediante la viralización de las comunicaciones y deriva tráfico tanto a locales como al sitio web o e-commerce de la empresa. Se recomienda acompañar este trabajo con publicidad online en Facebook Ads. <h4>BENEFICIOS</h4> <h5>FUENTE DE INFORMACIÓN</h5> Nos brinda la posibilidad de estudiar las reacciones y comportamiento de nuestros clientes hacer pruebas para observar sus gustos y analizar qué productos son mejor recibidos para luego basándonos en los resultados poder ajustar estrategias. <h5>IMÁGEN DE MARCA</h5>  Se establece la imagen de marca, incrementando la visibilidad en las redes sociales más relevantes. <h5>FIDELIZACIÓN DE CLIENTES</h5> Fidelizar las relaciones con sus clientes y los usuarios de las comunidades relevantes. <h5>TRÁFICO</h5> Aumentar el tráfico y el número de enlaces entrantes, lo que apoyará el posicionamiento natural de su web en los buscadores y generará mayores contactos y ventas. <h5>NUEVAS OPORTUNIDADES</h5> Al entablar conversaciones con sus clientes podrá identificar nuevas oportunidades de mercado y tomar decisiones estratégicas. <h5>VIRALIZACIÓN</h5> Obtener publicidad gratuita boca a boca a través del marketing viral. <h5>REPORTING</h5> Recibirás completas estadísticas de rendimiento, lo que permite que el retorno de tu inversión sea 100% cuantificable."
+		}
+
+	],
+	"casoExito": [
+		{
+			"imagen": "img/productos/musimundo-3.png",		
+			"logo1": "musimundo.png",
+			"logo2": "musimundo-hover.png",
+			"titulo": "Musimundo 3.0",
+			"descripcion": "1Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.musimundo.com"
+		},
+		{
+			"imagen": "img/productos/producto2.jpg",
+			"logo1": "47street.png",
+			"logo2": "47street-hover.png",
+			"titulo": "47 street",
+			"descripcion": "2Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.47street.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto3.jpg",
+			"logo1": "freddo.png",
+			"logo2": "freddo-hover.png",
+			"titulo": "Freddo",
+			"descripcion": "3Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.freddo.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "blaque.png",
+			"logo2": "blaque-hover.png",
+			"titulo": "Blaque",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.blaque.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "jackie-smith.png",
+			"logo2": "jackie-smith-hover.png",
+			"titulo": "Jackie Smith",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.jackiesmith.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "paruolo.png",
+			"logo2": "paruolo-hover.png",
+			"titulo": "Paruolo",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+			,
+			"sitio": "http://www.paruolostore.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "colorshop.png",
+			"logo2": "colorshop-hover.png",
+			"titulo": "Colorshop",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.colorshop.com.ar"
+		}
+	]
+
+
+
+}

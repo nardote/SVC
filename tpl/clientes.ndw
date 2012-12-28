@@ -1,0 +1,24 @@
+<div class="row-fluid header">
+	<div class="span2"></div>
+	<div class="span8">
+		<h2 class="escrito">{{=titulo}}</h2>
+	</div>
+	<div class="span2"></div>	
+</div>
+<div class="row-fluid header">
+	<div class="span2"></div>
+	<div class="span8 cudriculado">
+		<div class="client-retainer">
+			{{ for(var i = 0; i <  clientes.length; i++) { }}
+				<div class="client">
+					<a href="{{=clientes[i].link}}" target="_blank">
+						<img class="logo1" src="img/clientes/{{=clientes[i].logo}}" />
+						<img class="logo2" src="img/clientes/{{=clientes[i].logo2}}" />
+						<span class="amarillo"><strong>{{=clientes[i].nombre}}</strong></span>
+					</a>
+				</div>
+			{{ } }}
+		</div>
+	</div>
+	<div class="span2"></div>
+</div>

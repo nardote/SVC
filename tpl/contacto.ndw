@@ -1,0 +1,41 @@
+<div class="row-fluid">
+	<div class="span2"></div>
+	<div class="span8">
+		<span class="phone">00 5411 4701 0190</span>
+		<h2 class="escrito mnsg">Env&iacute;enos un mensaje</h2>
+		<form class="contact" action="#!contacto-gracias" method="post" id="formulario">
+			<fieldset>
+				<div class="field">
+					<label>Nombre</label>
+					<input type="text" name="nombre" id="nombre" />
+					<p class="error" id="nameError">
+						<span>Por favor ingrese su nombre</span>
+					</p>
+				</div>
+				<div class="field">
+					<label>email</label>
+					<input type="text" name="email" id="mail" />
+					<p class="error" id="mailError">
+						<span>Por favor ingrese un email v&aacute;lido</span>
+					</p>
+				</div>
+				<div class="field">
+					<label>Empresa</label>
+					<input type="text" name="empresa" />
+				</div>
+				<div class="field">
+					<label>Tel&eacute;fono</label>
+					<input type="text" name="telefono" />
+				</div>
+				<div class="field">
+					<label>Mensaje</label>
+					<textarea name="mensaje"></textarea>
+				</div>
+				<div class="field bttn">
+					<input type="submit" value="›› Enviar mensaje" id="btn-submit" />
+				</div>
+			</fieldset>
+		</form>
+	</div>
+	<div class="span2"></div>
+</div>

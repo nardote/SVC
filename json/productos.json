@@ -1,0 +1,106 @@
+{
+
+	"titulo": "",
+	"productos": [
+		{
+			"imagen": "img/productos/producto1.jpg",
+			"titulo": "e-Commerce",
+			"descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+		},
+		{
+			"imagen": "img/productos/producto2.jpg",
+			"titulo": "CMS",
+			"descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"titulo": "Mobile",
+			"descripcion": "Todos hemos sido testigos en los últimos años del enorme crecimiento en el uso y adopción por parte de los consumidores de los dispositivos móviles, ya sean estos \"Smartphones\" (teléfonos inteligentes, o \"Tablets\" (Tabletas), del tipo iPad o Galaxy de Samsung o Kindle Fire de Amazon.NDW tomó este desafio desarrollando soluciones en distintas áreas:<br> a) <strong>Diseño responsivo</strong>. Estas soluciones, identifican el origen o procedencia de un usuario asi como del dispositivo del cual esta accediendo, y en consecuencia les muestra una interfaz diferente, dependiendo si entra desde una PC o Notebook, o desde un celular en sus multiples layouts.<br> b) <strong>Desarrollo de Aplicaciones</strong>. A diferencia de una intefase de navegación \"mobile\" en HTML, los aplicativos que se descargan, tanto desde el applestore, como desde el marketplace de Andorid, tienen más funcionalidades, son más vistosos y además funcionan \"offline\", o sea cuando el usuario está desconectado. Todos estos dispositivos tienen la particularidad de permitir la conexión a Internet del usuario en movimiento, desde cualquier lugar, en cualquier momento. <h4>Beneficios</h4> <h5>Conexión en movimiento</h5> Permite el acceso a la información en cualquier momento y desde cualquier lugar donde exista una cobertura de red cellular. Accediendo a cualquier red de WiFi o 3G, los usuarios pueden acceder e intercambiar contenidos e información rápidamente. <h5>Amplia la conectividad</h5> Permite un amplio radio de conectividad. Casi la mitad de los navegantes de Internet lo hacen a través de un dispositivo móvil. <h5>Integracion de servicios y aplicaciones</h5> Integra servicios que toman ventaja de las capacidades de los dispositivos móviles, tales como hacer click sobre un número telefónico y hacer la llamada directamente o agregar el número a la libreta de contactos del usuario. <h5>Geolocalización</h5> Asimismo pueden proveer contenidos sensibles a la localización del usuario. Las nuevas tecnologias de Geo-localización permiten la ubicación tanto del navegante, como del local físico de la empresa que ofrece sus productos o servicios."
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"titulo": "Landing Page",
+			"descripcion": "El landing page es un recurso utilizado para crear contenido generalmente relacionado con una acción o campaña de publicidad en particular. Consta de una sola página con diseño propio alojada dentro de un sitio con funcionalidades como un formulario de registro, video, imagen, animaciones o lo que la acción requiera. Las landing page se encargan de recibir al visitante con el contenido directamente relacionado con la comunicación que lo está dirigiendo al sitio. Si el usuario hace click en un anuncio que lo invita a una promoción y al entrar en el sitio dicha promoción no está a la vista el usuario podría sentirse engañado o frustrado bajando el porcentaje de conversión. <h5>BENEFICIOS</h5> <h4>MEJORA DE RENDIMIENTO</h4> Maximiza el rendimiento de acciones particulares como promociones, registros de usuarios o ventas. <h4>FLEXIBILIDAD</h4> Mediante el uso de Analytics podemos analizar el comportamiento de los usuarios y hacer ajustes de manera simple y rápida para mejorar el rendimiento de las campañas o acciones."
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"titulo": "e-Catalogo",
+			"descripcion": "El e-Catalogo es una herramienta poderosa e interactiva, que permite incorporar video, audio, flash, recortar imágenes, compartirla con amigos, etc. En este video se muestran todas las capacidades de esta aplicación que ha venido ganando terreno en los últimos años. Los usos de catálogos digitales son cada vez más frecuentes entre los navegantes de Internet. <h5>BENEFICIOS</h5> El e-Catalogo es una manera muy atractiva e interactiva de mostrar contenido. Es uno de los productos mejor recibido por los usuarios finales, las interacciones con este producto generan mucha expectativa, visitas y sobre todo páginas vistas y tiempo en página. Su familiaridad con usuarios de todas las edades lo transforma en un medio muy aceptado y fácil de usar por cualquier usuario."
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"titulo": "Facebook",
+			"descripcion": "<h4>DISEÑO DE FANPAGE</h4> La customización del Fanpage y del Twitter genera una apariencia profesional e interactiva y facilita la comunicación, duración y efectividad de las comunicaciones. Mediante Pestañas personalizadas se puede generar un espacio de consulta que permanece al alcance de los fans constantemente. En estas pestañas podemos crear diferentes contenidos, ya sean banners con promociones, formularios de registro para newsletters o concursos (con el fin de generar base de datos de los fans que facebook no nos brinda.), agendas de eventos, catálogos de productos y otros. <h4>APLICACIONES Y JUEGOS</h4> Creamos Aplicaciones y juegos para maximizar resultados, fortalecer vínculos con los seguidores y ampliar las funcionalidades que brinda facebook. <h5>BENEFICIOS</h5> <h4>IMÁGEN DE MARCA</h4> Se establece la imagen de marca, incrementando la visibilidad en las redes sociales más relevantes. <h4>FIDELIZACIÓN DE CLIENTES</h4> Fidelizar las relaciones con sus clientes y los usuarios de las comunidades relevantes. <h4>TRÁFICO</h4> Aumentar el tráfico y el número de enlaces entrantes, lo que apoyará el posicionamiento natural de su web en los buscadores y generará mayores contactos y ventas. <h4>NUEVAS OPORTUNIDADES</h4> Al entablar conversaciones con sus clientes podrá identificar nuevas oportunidades de mercado y tomar decisiones estratégicas. <h4>VIRALIZACIÓN</h4> Obtener publicidad gratuita boca a boca a través del marketing viral. <h4>REPORTING</h4> Recibirás completas estadísticas de rendimiento, lo que permite que el retorno de tu inversión sea 100% cuantificable."
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"titulo": "Newsletters",
+			"descripcion": "La herramienta del newsletter o el email, además de ser la más antigua de Internet, ya que data del año 1971, es una herramienta muy eficiente, y ayuda a las empresas a promocionar su marca, así como ofertas, promociones o contenidos. El e-mail marketing o Newsletter es una de las opciones preferidas a la hora de vincularse con el cliente. En NDW contamos con un excelente servicio de reporting que ayuda a conocer mejor las preferencias, gustos y comportamiento de los usuarios con el objetivo de optimizar ventas y ofrecerles servicios, productos y contenidos. El newsletter es una pieza que tiene cierta complejidad para su armado, y es importante contar con una empresa de experiencia para crearlo, ya que permite hacer un seguimiento de cada  envío, saber cuántos emails se abrieron, cuantos clicks se hicieron, quien los hizo y sobre que contenidos. <h4>Beneficios</h4> <h5>EFECTIVIDAD</h5> El Newsletter es el medio que mas porcentaje de conversiones genera. Gracias a los completos informes podemos medir y analizar el comportamiento de nuestros usuarios, los productos de mayor interés, las promociones mejor recibidas y de esta forma optimizar nuestras conversiones a la hora de las ventas y la creación de futuras promociones. <h5>BAJO COSTO</h5> Comparándolo con cualquier otro medio tradicional el costo del Newsletter es significativamente más barato y más efectivo. <h5>POSICIONAMIENTO</h5> Genera visibilidad y posicionamiento de marca. Permite tener un vínculo más estrecho y duradero con tu cliente.<h5>RAPIDEZ</h5> En minutos se puede llegar a los destinatarios con promociones o novedades que no necesitan una larga planificación. Algo que surge en el día puede ser comunicado inmediatamente al total de los usuarios. <h5>IMÁGEN</h5> Las empresas que recurren a este medio para dar a conocer sus productos, brindan la imagen de modernidad y cercanía."
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"titulo": "Micrositio",
+			"descripcion": "Un micrositio, es un grupo de páginas que extienden o amplían la funcionalidad de sitios web primarios. Típicamente son utilizados para añadir un información tanto comercial como editorial. Estos sitios pueden estar o no vinculados al sitio Web principal y se pueden retirar del servidor del sitio cuando sean utilizados para un objetivo temporal. La mayor distinción entre un micrositio con su sitio Web padre es su función específica comparado con el sentido más general del sitio Web padre."
+		}
+
+	],
+	"casoExito": [
+		{
+			"imagen": "img/productos/musimundo-3.png",		
+			"logo1": "musimundo.png",
+			"logo2": "musimundo-hover.png",
+			"titulo": "Musimundo 3.0",
+			"descripcion": "1Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.musimundo.com"
+		},
+		{
+			"imagen": "img/productos/producto2.jpg",
+			"logo1": "47street.png",
+			"logo2": "47street-hover.png",
+			"titulo": "47 street",
+			"descripcion": "2Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.47street.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto3.jpg",
+			"logo1": "freddo.png",
+			"logo2": "freddo-hover.png",
+			"titulo": "Freddo",
+			"descripcion": "3Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.freddo.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "blaque.png",
+			"logo2": "blaque-hover.png",
+			"titulo": "Blaque",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.blaque.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "jackie-smith.png",
+			"logo2": "jackie-smith-hover.png",
+			"titulo": "Jackie Smith",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.jackiesmith.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "paruolo.png",
+			"logo2": "paruolo-hover.png",
+			"titulo": "Paruolo",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien."
+			,
+			"sitio": "http://www.paruolostore.com.ar"
+		},
+		{
+			"imagen": "img/productos/producto4.jpg",
+			"logo1": "colorshop.png",
+			"logo2": "colorshop-hover.png",
+			"titulo": "Colorshop",
+			"descripcion": "4Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempus elit id nunc pharetra laoreet. Ut sit amet fermentum nisl. Curabitur accumsan lorem non lacus lobortis mollis. Duis lacinia posuere elit, at ultricies urna posuere nec. Donec sodales leo vitae lectus euismod lacinia sit amet nec sapien. Duis condimentum vehicula nisl non commodo. Etiam non augue vel augue eleifend rhoncus ut nec sapien.",
+			"sitio": "http://www.colorshop.com.ar"
+		}
+	]
+}
